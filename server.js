@@ -31,6 +31,9 @@ app.get('/user', (req, res) => {
     {
       age: 28,
     },
+    {
+      height: '6 foot 2 inches',
+    },
   ]);
 });
 
